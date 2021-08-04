@@ -1,0 +1,83 @@
+p
+{
+	text-align: center;
+}
+
+h1
+{
+	color:#e69900;
+	text-align: center;
+}
+
+h1 ul 
+{
+	text-align: center;
+}
+
+nav
+{
+	
+	background-image: url("fondnav.jpg");
+	width:20%;
+	/* float: left; */
+	 position: relative; 
+	/* top: 9.1px; */
+	text-align: center;
+}
+
+nav ul li 
+{
+	/* font-size: 1.4em; */
+	font-size: 1em;
+}
+
+
+
+header
+{
+	background-image: url("fondnav.jpg");
+	background-color:#ffe6cc;
+	color: black;
+	opacity: 0.6; 
+	/* opacity: 0.6px; */  /* C'est Qoui ca !!  el px zeyda */ 
+    /* border-left-width: 500px; */
+	font-size: x-large;
+    text-align: center;
+
+}
+
+div
+{
+	/* width: 110%; */ /* 110% barcha! c normal el page akber mel Width mte3 el ecran */ 
+	width: 100%;
+    display: block;
+    /* margin-left:15%;*/  /* 15% barcha!  c normal el page akber mel Width mte3 el ecran , amma fhemtek 3lech , mais mouch 7all behi  */ 
+     font-size: 1em; 
+    
+}
+
+body
+{
+	 background-image: url("fond.jpg"); 
+
+}
+
+ul li em
+{
+   text-shadow: 2px 2px 4px  gray;
+}
+
+	
+a
+{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
